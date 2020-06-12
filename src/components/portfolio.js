@@ -1,12 +1,10 @@
+import { Link } from "gatsby";
 import React from "react";
 import MainSkeleton from "../components/main-skeleton";
-import workindia from "../images/workindia.jpeg";
-import scholar from "../images/scholr.webp";
-import marriager from "../images/marraiger.webp";
-import mehndi from "../images/mehndi.webp";
-import sundaram from "../images/sundaram.webp";
 import gp from "../images/gp.webp";
-import { Link } from "gatsby";
+import marriager from "../images/marraiger.webp";
+import scholar from "../images/scholr.webp";
+import workindia from "../images/workindia.jpeg";
 
 
 function Portfolio() {
@@ -40,7 +38,6 @@ function Portfolio() {
 
         }]
 
-    console.log("Screen Width", window.innerWidth)
 
     return (
         <MainSkeleton

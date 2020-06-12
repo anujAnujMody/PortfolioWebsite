@@ -1,5 +1,69 @@
 /*! purgecss start ignore */
 @tailwind base;
 @tailwind components;
+
+.my-input {
+  @apply mt-1 block w-full bg-transparent  border rounded-md p-2  text-secondary-light border-grey-bgLight;
+}
+
+.my-input:focus {
+  @apply outline-none border-primary;
+}
+
+.my-input:active {
+  @apply border-primary;
+}
+
+.first-part-container {
+  @apply flex flex-shrink-0;
+}
+
+.first-part-header {
+  @apply w-full flex flex-col pt-4 pb-0 mx-6;
+}
+
+.second-part-header {
+  @apply w-screen px-6 py-4 overflow-x-hidden;
+}
+
+@screen md {
+  
+
+  .first-part-header {
+    @apply border-b-0;
+  }
+
+  .first-part-header {
+    @apply mx-8;
+  }
+
+  .second-part-header {
+    @apply px-8;
+  }
+}
+
+@screen lg {
+
+  
+  .first-part-container {
+    @apply w-2/6 max-w-3xl justify-center mt-0 text-right;
+  }
+
+  .first-part-header {
+    @apply mx-0 px-12 py-10 border-b-0;
+  }
+
+  .first-part-container-light {
+    @apply justify-center bg-black-light;
+  }
+
+  .first-part-container-dark {
+    @apply justify-center bg-black-dark;
+  }
+  .second-part-header {
+    @apply px-16 py-10 max-w-screen-lg;
+  }
+}
+
 /*! purgecss end ignore */
 @tailwind utilities;

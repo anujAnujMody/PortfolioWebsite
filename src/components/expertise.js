@@ -58,9 +58,10 @@ function Expertise() {
                                 <span className="text-secondary-light text-md lg:text-base">{item.header}</span>
                             </div>
                         </div>
-                        <div className="flex-1 flex bg-grey-bgLight h-0.5 md:h-1 md:mr-8 mt-2 md:mb-2">
-                            <div className="h-full bg-primary" style={{ width: `${item.percentage}` }} />
+                        <div className=" flex bg-grey-bgLight h-1 md:h-1 md:mr-8 mt-2 md:mb-2">
+                            <div className="bg-primary" style={{ width: `${item.percentage}` }} />
                         </div>
+
                     </div>
                 )}
             </div>

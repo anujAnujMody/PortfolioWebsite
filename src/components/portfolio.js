@@ -1,9 +1,9 @@
 import { Link } from "gatsby";
 import React from "react";
 import MainSkeleton from "../components/main-skeleton";
-import gp from "../images/gp.webp";
-import marriager from "../images/marraiger.webp";
-import scholar from "../images/scholr.webp";
+import gp from "../images/gp.jpeg";
+import marriager from "../images/marraiger.jpeg";
+import scholar from "../images/scholr.jpeg";
 import workindia from "../images/workindia.jpeg";
 
 

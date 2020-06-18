@@ -16,19 +16,19 @@ function Experience() {
         company_name: "SCHOLR",
         position: 'Sr. Andriod Developer',
         place: 'Mumbai, India',
-        info: `WorkIndia is a blue-collar recruitment portal. A platform for candidates and employers to find their perfect matches. The candidates can use our mobile application to apply for the job they would like to do. WorkIndia has two products -  WorkIndia Recruiter and  WorkIndia Jobs. I have developed the app – WorkIndia Recruiter, in React Native. WorkIndia Recruiter is a solution for all recruitment needs. This app helps you find the right staff for your business. Also, I developed a mobile Android app – WorkIndia Jobs, a Job Search Portal for all the Blue and Grey Collar candidates`
+        info: "Scholr is an AI-based learning assistant for school students. It is a goto app for students to solve any of their academic doubts.  I was part of the Android team in developing the Android app - “Scholar – Homework Help, Math Answer - NCERT Solution” app. "
     }, {
         date: "2017 - 2018",
         company_name: "Get-Parking",
         position: 'Sr. Mobile Developer',
         place: 'Mumbai, India',
-        info: `WorkIndia is a blue-collar recruitment portal. A platform for candidates and employers to find their perfect matches. The candidates can use our mobile application to apply for the job they would like to do. WorkIndia has two products -  WorkIndia Recruiter and  WorkIndia Jobs. I have developed the app – WorkIndia Recruiter, in React Native. WorkIndia Recruiter is a solution for all recruitment needs. This app helps you find the right staff for your business. Also, I developed a mobile Android app – WorkIndia Jobs, a Job Search Portal for all the Blue and Grey Collar candidates`
+        info: "GetParking is a Parking Management app for Parking space Owners, Operators, Managers and Attendants. It is part of the GetParking platform which uses Computer vision, Machine learning, Internet of Things & Artificial Intelligence to add unprecedented intelligence to your parking lots. I got exposure on IoT, developed PWA in vue.js along with developing the GetParking app for Android platform"
     }, {
         date: "2015 - 2017",
         company_name: "Tech Morphosis",
         position: 'Sr. Mobile Developer',
         place: 'Mumbai, India',
-        info: `WorkIndia is a blue-collar recruitment portal. A platform for candidates and employers to find their perfect matches. The candidates can use our mobile application to apply for the job they would like to do. WorkIndia has two products -  WorkIndia Recruiter and  WorkIndia Jobs. I have developed the app – WorkIndia Recruiter, in React Native. WorkIndia Recruiter is a solution for all recruitment needs. This app helps you find the right staff for your business. Also, I developed a mobile Android app – WorkIndia Jobs, a Job Search Portal for all the Blue and Grey Collar candidates`
+        info: "Techmorphosis is a digital studio that helps clients grow business online, with the help of a user-focused mobile app and website design, development, online marketing and consulting services.  I had developed custom mobile applications in both Android and iOS platforms using native technologies as per client specifications. I had also led a highly effective team of 3-4 developers in the creation of a mobile app."
     },
     {
         date: "2014 - 2015",

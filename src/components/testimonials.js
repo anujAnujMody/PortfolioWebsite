@@ -33,6 +33,11 @@ function Testimonials() {
             comment: 'I have been working with Anuj for around a year on various projects. He has always been diligent and sincere towards his work. Having a keen eye for detail, he also accepts challenges as they come his way. He is proficient in iOS and Android development and with his holistic approach and critical analysis, he will surely bring value to the work at hand.',
             name: 'Gaurang Mohite',
             designation: 'Project Manager at TSS Consultancy Pvt Ltd'
+        },
+        {
+            comment: 'Anuj is dedicated to his craft. An avid learner and works with focus and passion. During his time at GetParking he has demonstrated excellent app development skills and ability to adapt to newer tech and scenarios. He has the ability to advice and take advice on a given topic/challenge. I wish his a very bright future ahead.',
+            name: 'Rajiv Singh',
+            designation: 'Head of Technologies at GetParking'
         },]
 
     return (

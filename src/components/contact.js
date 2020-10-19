@@ -50,7 +50,7 @@ class Contact extends React.Component {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                     <div className="flex flex-col ">
                         <div className="flex items-baseline  leading-tight">
-                            <span className="text-lg xl:text-4xl text-primary mr-2">Bangalore,</span>
+                            <span className="text-lg xl:text-4xl text-secondary-light mr-2">Bangalore,</span>
                             <span className="text-sm xl:text-2xl text-secondary-light">India</span>
                         </div>
                         <span className="text-secondary-light text-md  lg:mt-4">androanuj@gmail.com</span>
@@ -65,7 +65,7 @@ class Contact extends React.Component {
                                 }}></input>
                                 <input type="email" class="my-input form-input flex-1" placeholder="Email" name="email"></input>
                             </div>
-                            <input type="text" class="my-input form-textarea text-left mt-4" placeholder="Query(optional)" name="query" returnKeyType="done"></input>
+                            <input type="text" class="my-input form-textarea text-left mt-4" placeholder="Query (optional)" name="query" returnKeyType="done"></input>
 
                             <div className="mt-4 flex flex-1 justify-end">
                                 <button className="px-10 py-3 bg-primary text-gray-300 rounded-md focus:outline-none focus:shadow-outline lg:hover:bg-yellow-700 text-lg shadow-lg">

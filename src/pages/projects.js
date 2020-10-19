@@ -109,8 +109,8 @@ function Projects(params) {
                     {projects.map(item =>
                         (
                             <a href={item.link} target="_blank" rel="noopener noreferrer">
-                                <div className="bg-socialBg shadow-xl border-gray-400 p-4">
-                                    <div className="flex flex-row mb-2">
+                                <div className="bg-socialBg shadow-xl border-gray-400 p-4 h-full">
+                                    <div className="flex flex-row mb-0">
                                         <img src={item.img} className="w-16 h-16 rounded-md" ></img>
                                         <div className=" flex flex-col ml-3 justify-center">
                                             <span className="text-xs text-primary font-semibold leading-none">{`#${item.platform}`}</span>

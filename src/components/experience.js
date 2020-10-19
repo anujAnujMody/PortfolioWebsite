@@ -35,7 +35,7 @@ function Experience() {
         company_name: "Megasys India Pvt Ltd",
         position: 'Android Developer',
         place: 'Mumbai, India',
-        info: `WorkIndia is a blue-collar recruitment portal. A platform for candidates and employers to find their perfect matches. The candidates can use our mobile application to apply for the job they would like to do. WorkIndia has two products -  WorkIndia Recruiter and  WorkIndia Jobs. I have developed the app – WorkIndia Recruiter, in React Native. WorkIndia Recruiter is a solution for all recruitment needs. This app helps you find the right staff for your business. Also, I developed a mobile Android app – WorkIndia Jobs, a Job Search Portal for all the Blue and Grey Collar candidates`
+        info: `Megasys is a client centric Software Development, IT consulting and Business Process Outsourcing (BPO) solutions provider. Megasys has executed projects on a wide range of technologies and its current efforts are based around - custom software development, E-learning, Mobile Application, CRM/Business Intelligence, Internet technologies, and Enterprise Application Integration (EAI) solutions.I was involved in all aspects of the Android app life-cycleme from research and planning through deployment and post-launch support.`
     },]
 
 

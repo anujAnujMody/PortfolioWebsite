@@ -9,23 +9,23 @@ function Expertise() {
         percentage: '85%'
     }, {
         header: "Java",
-        percentage: '90%'
+        percentage: '80%'
     },
     {
         header: "Kotlin",
-        percentage: '70%'
+        percentage: '60%'
     },
     {
         header: "Swift",
-        percentage: '70%'
+        percentage: '60%'
     },
     {
         header: "Flutter",
-        percentage: '60%'
+        percentage: '40%'
     },
     {
         header: "React.js",
-        percentage: '60%'
+        percentage: '50%'
     },
     {
         header: "Node.Js",
@@ -33,14 +33,14 @@ function Expertise() {
     },
     {
         header: "Vue.Js",
-        percentage: '60%'
+        percentage: '40%'
     },
     {
         header: "HTML",
-        percentage: '75%'
+        percentage: '65%'
     }, {
         header: "CSS",
-        percentage: '75%'
+        percentage: '65%'
     },]
 
     return (

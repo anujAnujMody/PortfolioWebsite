@@ -25,7 +25,7 @@ function Edcuation() {
         <MainSkeleton
             isDark={true}
             header={"Education"}
-            subText={"Smart cookie"}>
+            subText={"A smart cookie!"}>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {education.map((item, index) => (
                     <div className="flex">

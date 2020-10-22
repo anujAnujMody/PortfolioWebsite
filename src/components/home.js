@@ -60,7 +60,7 @@ function Home() {
         <div className="h-full lg:h-screen relative">
             <div className="lg:h-screen flex flex-col justify-center items-center lg:items-start ">
 
-                <h1 className="block text-3xl md:text-6xl leading-tight text-primary uppercase font-bold tracking-wide">Anuj Mody</h1>
+                <h1 className="block text-3xl md:text-6xl leading-tight text-primary uppercase font-bold tracking-wide">Anuj&nbsp;&nbsp;Mody</h1>
 
                 <div className="lg:w-full">
                     <div className="lg:flex lg:items-baseline lg:justify-between">

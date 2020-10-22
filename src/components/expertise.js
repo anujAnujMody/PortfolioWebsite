@@ -29,7 +29,7 @@ function Expertise() {
     },
     {
         header: "Node.Js",
-        percentage: '50%'
+        percentage: '40%'
     },
     {
         header: "Vue.Js",

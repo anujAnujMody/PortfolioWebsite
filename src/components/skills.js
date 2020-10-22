@@ -33,7 +33,7 @@ function Skills() {
         <MainSkeleton
             isDark={false}
             header={"Strenghts"}
-            subText={"Sorry Batman :P"}>
+            subText={"Brutally honest"}>
             <div className="flex flex-wrap flex-col  md:flex-row justify-between">
                 {skills.map((item, index) =>
                     <div className={`flex flex-col w-full md:w-1/2  mb-5 lg:mb-0 key=${item.header}`} >

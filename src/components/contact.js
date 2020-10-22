@@ -50,7 +50,7 @@ class Contact extends React.Component {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                     <div className="flex flex-col ">
                         <div className="flex items-baseline  leading-tight">
-                            <span className="text-lg xl:text-4xl text-secondary-light mr-2">Bangalore,</span>
+                            <span className="text-lg xl:text-2xl text-secondary-light mr-2">Bangalore,</span>
                             <span className="text-sm xl:text-2xl text-secondary-light">India</span>
                         </div>
                         <span className="text-secondary-light text-md  lg:mt-4">androanuj@gmail.com</span>

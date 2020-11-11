@@ -8,16 +8,25 @@ import mehndi from "../images/mehndi.jpeg";
 import wt from "../images/wt.png";
 import playstore from "../images/playstore.jpeg";
 import appstore from "../images/appstore.jpeg";
+import wrkinda from "../images/wkindia.jpeg";
 
 function Projects(params) {
 
     const projects = [
         {
-            platform: 'android',
+            platform: 'android - React Native',
             appName: 'Post Jobs, Hire Candidates - Workindia Recruiter',
             appInfo: 'WorkIndia For Recruiters App is a one-stop solution for all your recruitment needs. Whether you want to hire a cook, driver, accountant, hairdresser, sales executive, tailor, photographer or a digital marketing executive, all you have to do is simply post your job requirements on our app! You will get calls from relevant active job seekers, and then you can hire them!',
             img: workindia,
-            link: ""
+            link: "https://play.google.com/store/apps/details?id=in.workindia.hireindia"
+
+        },
+        {
+            platform: 'android',
+            appName: 'WorkIndia Job Search App - Free HR contact directs',
+            appInfo: 'WorkIndia is the perfect Free Job Search Portal for all the Blue and Grey Collar candidates, to get a job according to their profile and preferred location!',
+            img: wrkinda,
+            link: "https://play.google.com/store/apps/details?id=in.workindia.nileshdungarwal.workindiaandroid"
 
         },
         {
@@ -69,6 +78,14 @@ function Projects(params) {
 
         },
         {
+            platform: 'android',
+            appName: 'Where Today- Events, Nightlife',
+            appInfo: "Where Today helps find pubs with happy hours, restaurants, sheesha joints, trending events and parties near you.",
+            img: wt,
+            link: "https://play.google.com/store/apps/details?id=com.techmorphosis.wheretoday&hl=en"
+
+        },
+        {
             platform: 'iOS',
             appName: 'Where Today- Events, Nightlife',
             appInfo: "Where Today helps find pubs with happy hours, restaurants, sheesha joints, trending events and parties near you.",
@@ -85,11 +102,27 @@ function Projects(params) {
 
         },
         {
+            platform: 'android',
+            appName: 'Marriager for Vendors',
+            appInfo: 'This app is for the vendors who can showcase their service and products.',
+            img: marriager,
+            link: "https://play.google.com/store/apps/details?id=com.techmorphosis.marriager-business&hl=en"
+
+        },
+        {
             platform: 'iOS',
             appName: 'GJFGems & Jewellery Trade Federation',
             appInfo: '(GJF) App provides a unique opportunity to the Gems & Jewellery trade fraternity to know about various benefits offered by GJF to its members in order to promote, protect and progress the trade.',
             img: appstore,
             link: "https://itunes.apple.com/in/app/gjf/id1142607465?mt=8"
+
+        },
+        {
+            platform: 'android',
+            appName: 'GJFGems & Jewellery Trade Federation',
+            appInfo: '(GJF) App provides a unique opportunity to the Gems & Jewellery trade fraternity to know about various benefits offered by GJF to its members in order to promote, protect and progress the trade.',
+            img: playstore,
+            link: "https://play.google.com/store/apps/details?id=com.techmorphosis.gjf&hl=en"
 
         },
         {
